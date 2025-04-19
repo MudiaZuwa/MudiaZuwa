@@ -1,5 +1,5 @@
 <h2>👨‍💻 Mudia's Developer Profile</h2>
-<hr>
+
 👋 Hey, I’m Osamudiamen E. Osazuwa — but you can call me Mudia!<br>
 💻 Frontend developer passionate about building clean, responsive web applications.<br>
 🎮 I craft interactive web games using JavaScript, Phaser.js, and Three.js.<br>
